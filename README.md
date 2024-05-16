@@ -7,6 +7,7 @@ It allows users to efficiently manage products by providing features such as vie
 The application is designed with a user-friendly interface and incorporates responsive design to ensure a seamless experience across various devices.
 
 Folder/File Structure
+
 public/: Contains public assets of the application, including the HTML file and other static resources.
 
 src/: Main source code directory of the application.
