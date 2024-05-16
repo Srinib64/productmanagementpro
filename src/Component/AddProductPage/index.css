@@ -1,0 +1,42 @@
+.add-product-page {
+    max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    background-color: rgb(191, 227, 245); 
+    color: #333; 
+  }
+  
+  .add-product-page h1 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  
+  @media screen and (max-width: 768px) {
+    .add-product-page .ant-form-item {
+      margin-bottom: 10px;
+    }
+  }
+
+  .add-product-page .ant-btn-primary {
+    width: 100%;
+    max-width: 200px; 
+  }
+  .add-product-page .ant-form-item {
+    margin-bottom: 20px;
+  }
+  
+  .add-product-page .ant-select,
+  .add-product-page .ant-input,
+  .add-product-page .ant-input-number {
+    width: 100%; 
+    max-width: 500px; 
+    margin: 0; 
+  }
+  
+  .add-product-page .ant-form-item-label {
+    text-align: left; /* Align the label text to the left */
+  }
+  
